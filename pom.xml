@@ -17,7 +17,7 @@
   
   <build>
     <finalName>webapp</finalName>
-    <!-- Añado comentario -->
+    
     <plugins>
 	   	<plugin>
 		   <groupId>org.apache.maven.plugins</groupId>
