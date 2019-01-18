@@ -13,8 +13,7 @@
 	      <url>http://aval.colombia.umaneplatform.com:8084/repository/Colombia-Aval-Snapshot/</url>     
 	   </snapshotRepository>
   </distributionManagement>
-  
-  <!-- test  -->
+
   <build>
     <finalName>webapp</finalName>
    
