@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>webapp Maven Webapp</name>
-    
+   <!-- test--> 
   <distributionManagement>
 	   <snapshotRepository>
 	      <id>Colombia-Aval</id>
